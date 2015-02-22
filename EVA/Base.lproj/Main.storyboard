@@ -1901,9 +1901,10 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
                                     <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="2DA-c1-BZd">
-                                        <rect key="frame" x="0.0" y="0.0" width="140" height="422"/>
+                                        <rect key="frame" x="0.0" y="-63" width="140" height="485"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="sectionIndexBackgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                         <prototypes>
                                             <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="8ZI-os-dev" detailTextLabel="gg4-L1-1WA" style="IBUITableViewCellStyleSubtitle" id="RIO-xE-FIj">
                                                 <autoresizingMask key="autoresizingMask"/>
@@ -1926,6 +1927,7 @@
                                                 </tableViewCellContentView>
                                             </tableViewCell>
                                         </prototypes>
+                                        <sections/>
                                     </tableView>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.15830787239999999" blue="0.22365824510000001" alpha="1" colorSpace="calibratedRGB"/>
@@ -1938,6 +1940,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="140" height="422"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="sectionIndexBackgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                         <prototypes>
                                             <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="cLR-aq-oJf" detailTextLabel="h2j-R1-3D8" style="IBUITableViewCellStyleSubtitle" id="Bp3-8w-sTO">
                                                 <autoresizingMask key="autoresizingMask"/>
@@ -1960,6 +1963,7 @@
                                                 </tableViewCellContentView>
                                             </tableViewCell>
                                         </prototypes>
+                                        <sections/>
                                     </tableView>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.15830787239999999" blue="0.22365824510000001" alpha="1" colorSpace="calibratedRGB"/>
@@ -1994,6 +1998,7 @@
                                                 </tableViewCellContentView>
                                             </tableViewCell>
                                         </prototypes>
+                                        <sections/>
                                     </tableView>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.15830787239999999" blue="0.22365824510000001" alpha="1" colorSpace="calibratedRGB"/>
@@ -2028,6 +2033,7 @@
                                                 </tableViewCellContentView>
                                             </tableViewCell>
                                         </prototypes>
+                                        <sections/>
                                     </tableView>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.15830787239999999" blue="0.22365824510000001" alpha="1" colorSpace="calibratedRGB"/>
@@ -2062,6 +2068,7 @@
                                                 </tableViewCellContentView>
                                             </tableViewCell>
                                         </prototypes>
+                                        <sections/>
                                     </tableView>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.15830787239999999" blue="0.22365824510000001" alpha="1" colorSpace="calibratedRGB"/>

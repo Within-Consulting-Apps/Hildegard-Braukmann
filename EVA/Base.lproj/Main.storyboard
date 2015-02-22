@@ -337,7 +337,7 @@
                         <sections>
                             <tableViewSection headerTitle="#" id="8qd-ie-lKm">
                                 <cells>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="detailDisclosureButton" indentationWidth="10" editingAccessoryType="disclosureIndicator" id="Ni6-gq-WYL">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" indentationWidth="10" editingAccessoryType="disclosureIndicator" id="Ni6-gq-WYL">
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Ni6-gq-WYL" id="uFa-OZ-3Xs">
                                             <autoresizingMask key="autoresizingMask"/>
@@ -350,9 +350,9 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="●" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="czs-3c-FaC">
-                                                    <rect key="frame" x="682" y="14" width="11" height="21"/>
+                                                    <rect key="frame" x="712" y="11" width="35" height="21"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                     <color key="textColor" red="1" green="0.15830787239999999" blue="0.22365824510000001" alpha="1" colorSpace="calibratedRGB"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
@@ -1194,7 +1194,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1B7-0B-fri" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-142.08000000000001" y="-39.253333333333345"/>
+            <point key="canvasLocation" x="-143" y="-40"/>
         </scene>
         <!--Mein Tag-->
         <scene sceneID="8Ie-ET-Ha1">
